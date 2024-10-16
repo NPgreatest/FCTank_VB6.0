@@ -9,13 +9,13 @@ Thanks for my best friend Xiang provide level design and picture ~
 
 When I can play Minecraft whole day without any stress :(
 
-![d](pictures\d.jpg)
+![Alt text](pictures\d.jpg)
 
-![e](pictures\e.png)
+![Alt text](pictures\e.png)
 
-![a](pictures\a.bmp)
+![Alt text](pictures\a.bmp)
 
-![c](pictures\c.bmp)
+![Alt text](pictures\c.bmp)
 
 ## My Journey
 
