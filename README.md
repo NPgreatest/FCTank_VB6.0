@@ -11,11 +11,11 @@ When I can play Minecraft whole day without any stress :(
 
 ![Alt text](https://github.com/NPgreatest/FCTank_VB6.0/blob/master/pictures/d.jpg)
 
-![Alt text](pictures\e.png)
+![Alt text](https://github.com/NPgreatest/FCTank_VB6.0/blob/master/pictures/e.png)
 
-![Alt text](pictures\a.bmp)
+![Alt text](https://github.com/NPgreatest/FCTank_VB6.0/blob/master/pictures/a.bmp)
 
-![Alt text](pictures\c.bmp)
+![Alt text](https://github.com/NPgreatest/FCTank_VB6.0/blob/master/pictures/c.bmp)
 
 ## My Journey
 
