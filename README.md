@@ -9,7 +9,7 @@ Thanks for my best friend Xiang provide level design and picture ~
 
 When I can play Minecraft whole day without any stress :(
 
-![Alt text](pictures\d.jpg)
+![Alt text](https://github.com/NPgreatest/FCTank_VB6.0/blob/master/pictures/d.jpg)
 
 ![Alt text](pictures\e.png)
 
